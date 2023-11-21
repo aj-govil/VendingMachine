@@ -1,5 +1,7 @@
 # Virtual Vending Machine
 
+![homeSnack](https://github.com/aj-govil/VendingMachine/assets/98484980/698b8c56-ce1f-4235-8e32-08df26f3fbf7)
+
 ## Overview
 
 The Virtual Vending Machine is a software simulation of a traditional vending machine. This project provides a user-friendly interface to simulate the selection and purchase of items typically found in a real-world vending machine.
