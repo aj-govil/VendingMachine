@@ -1,0 +1,60 @@
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.csproj.AssemblyReference.cache
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject_MarkupCompile.cache
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject_MarkupCompile.lref
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.exe
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.deps.json
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.runtimeconfig.json
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.runtimeconfig.dev.json
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.dll
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.pdb
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.g.resources
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.AssemblyInfoInputs.cache
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.AssemblyInfo.cs
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.csproj.CoreCompileInputs.cache
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.dll
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.pdb
+C:\Users\ajesh\Documents\AAAAAAA - Github\piii-course-project-aj-vincent\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.genruntimeconfig.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.exe
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.deps.json
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.runtimeconfig.json
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.runtimeconfig.dev.json
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.dll
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.pdb
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.csproj.AssemblyReference.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject_MarkupCompile.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject_MarkupCompile.lref
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.g.resources
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.AssemblyInfoInputs.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.AssemblyInfo.cs
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.csproj.CoreCompileInputs.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.dll
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.pdb
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2022\PROGRAMMING 3\PIIIProject\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.genruntimeconfig.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.exe
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.deps.json
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.runtimeconfig.json
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.runtimeconfig.dev.json
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.dll
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\bin\Debug\netcoreapp3.1\PIIIProject.pdb
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.csproj.AssemblyReference.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject_MarkupCompile.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject_MarkupCompile.lref
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.g.resources
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.AssemblyInfoInputs.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.AssemblyInfo.cs
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.csproj.CoreCompileInputs.cache
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.dll
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.pdb
+C:\Users\ajesh\Documents\AAAA - JAC\FALL 2023\Job Preparation\Test\VendingMachine\VendingMachine\PIIIProject\obj\Debug\netcoreapp3.1\PIIIProject.genruntimeconfig.cache
